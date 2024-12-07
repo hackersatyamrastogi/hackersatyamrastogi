@@ -1,4 +1,3 @@
-# 💫 About Me:
 I’m currently working on<br>Building secure and scalable cloud solutions, enhancing cybersecurity measures, and leading a global DevOps and Security team.<br><br>🤝 I’m looking to collaborate on<br>Cybersecurity research, DevOps automation projects, and compliance-related initiatives like SOC 2, PCI DSS, and GDPR.<br><br>🔍 I’m looking for help with<br>Exploring new advancements in AI-driven security solutions and implementing them in real-world scenarios.<br><br>🌱 I’m currently learning<br>Advanced threat modeling, OWASP top 10, API security, and methodologies to counter web application vulnerabilities.<br><br>💬 Ask me about<br>Cybersecurity, cloud operations, DevOps automation, or compliance processes.<br><br>⚡ Fun fact<br>I once brought down a massive DDoS attack in under 3 hours, saving an EdTech company’s infrastructure from collapse!
 
 ## 📰 Featured In:
